@@ -47,6 +47,7 @@
 - [SeatGuru](https://www.seatguru.com/) - Check airplane seat maps and reviews to choose the best seat.
 - [TripIt](https://www.tripit.com/) - An app that organizes your travel plans into one simple itinerary.
 - [Kayak Explore](https://www.kayak.com/explore) - A tool that shows you where you can fly within your budget.
+- [Nomad Budget](https://nomadbudget.rubeeks.co/) - Multi-currency travel expense tracker with per-country wallets, country cost comparisons, and a 3D journey globe.
 
 ## Loyalty Programs
 
